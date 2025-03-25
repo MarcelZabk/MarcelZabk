@@ -1,6 +1,6 @@
 <h1>Hi, ich bin Marcel ! <br/><a href="https://github.com/MarcelZabk">Software Engineer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Entwicklung Projekte:</h2>
 
 
 
