@@ -1,9 +1,13 @@
 <h1>Hi, ich bin Marcel ! <br/><a href="https://github.com/MarcelZabk">Software Engineer</a></h1>
 
-<h2>👨‍💻 Software Entwicklungs Projekte:</h2>
+<!--<h2>👨‍💻 Software Entwicklungs Projekte:</h2>
 - <b>Ai Projekte</b>
   - [Tumor Klassifikations Projekt](https://github.com/MarcelZabk/TumorKlassifikation)
+-->
 
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
 
 <h2>📺 Youtube Vorstellung der Projekte</h2>
 
