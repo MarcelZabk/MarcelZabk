@@ -15,7 +15,7 @@ Coming Soon
 <h2> 🤳 Social Media:</h2>
 
 [<img align="left" alt="MarcelZabierek | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="MarcelZabierek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MarcelZabierek | LinkedIn" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" />][linkedin]
 
 
 [youtube]: -
