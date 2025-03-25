@@ -6,7 +6,7 @@
 -->
 
 - <b>Ai Projekte</b>
-  - [Tumor Klassifikations Projekt]([https://github.com/MarcelZabk/TumorKlassifikation])
+  - [Tumor Klassifikations Projekt](https://github.com/MarcelZabk/TumorKlassifikation)
  
 
 <h2>📺 Youtube Vorstellung der Projekte</h2>
