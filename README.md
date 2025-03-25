@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Software Entwicklungs Projekte:</h2>
 - <b>Ai Projekte</b>
-  - [Tumor Klassifikations Projekt ](https://github.com/MarcelZabk/TumorKlassifikation)
+  - [Tumor Klassifikations Projekt](https://github.com/MarcelZabk/TumorKlassifikation)
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>📺 Youtube Vorstellung der Projekte</h2>
