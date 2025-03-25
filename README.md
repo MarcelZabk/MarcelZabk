@@ -5,8 +5,8 @@
   - [Tumor Klassifikations Projekt](https://github.com/MarcelZabk/TumorKlassifikation)
 -->
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Ai Projekte</b>
+  - [Tumor Klassifikations Projekt]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/MarcelZabk/TumorKlassifikation))
  
 
 <h2>📺 Youtube Vorstellung der Projekte</h2>
